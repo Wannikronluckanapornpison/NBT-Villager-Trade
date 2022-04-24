@@ -101,7 +101,36 @@
          use:0,
          maxUses:5000000,
          rewardExp:0
-                  }
+                  }, 
+             {
+              buy:
+        {
+         id:"minecraft:gold_ingot",
+         Count:128
+              },
+              sell:
+           {
+            id:"minecraft:redstone_sword",
+         Count:1,
+         use:0,
+         maxUses:5000000,
+         rewardExp:0
+            },
+             {
+              buy:
+        {
+         id:"minecraft:diamond_ingot",
+         Count:256
+              },
+              sell:
+           {
+            id:"minecraft:epic_sword",
+         Count:1,
+         Damage:2,
+         use:0,
+         maxUses:5000000,
+         rewardExp:0
+                   }
               ]
          }
      }​
